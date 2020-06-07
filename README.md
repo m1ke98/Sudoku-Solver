@@ -1,10 +1,15 @@
 # Sudoku-Solver
-Sudoku puzzle solving Python script and JavaScript React app.
+Sudoku puzzle solving Python script and a React app.
 
+## Python Script
+
+Simply change the 2D sudoku array to any puzzle, where 0 is an empty square, and run the script in the terminal for the solution.
+
+## React App
 The react app, is still being developed.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
